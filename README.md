@@ -49,4 +49,10 @@ Python 3.6 أو أحدث
 اتصال بالإنترنت
 
 XPYATTACK: أداء عالي، تحليل دقيق، نتائج فورية.
+للتحميل اضغط على العلامه الخضراء green التي تسمى code واضغط download ZIP.
+ثم يجب عليك تحميل win rar من الموقع الرسمي.
+اضغط على ملف  xpyattack.py لو واجهتك اي مشاكل اضغط على ملف fixproblemsv2.bat.
+English Version:
+"To download, click on the green button called 'Code' and press 'Download ZIP'. Then you need to download WinRAR from the official website. Click on the xpyattack.py file. If you encounter any problems, click on the fixproblemsv2.bat file."
+
 
